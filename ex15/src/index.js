@@ -1,5 +1,3 @@
-const convertStrToInt = require("../../ex14/src");
-
 // Only change code below this line
 function converToInt(str) {
   return parseInt(str, 16);
